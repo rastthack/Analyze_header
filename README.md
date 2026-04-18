@@ -27,9 +27,9 @@ python3 analyze_headers.py <url>
 
 Examples:
 
-python3 analyze_headers.py https://qaharbor.com
-python3 analyze_headers.py https://qaharbor.com --method HEAD
-python3 analyze_headers.py https://qaharbor.com --json
+python3 analyze_headers.py https://google.com
+python3 analyze_headers.py https://google.com --method HEAD
+python3 analyze_headers.py https://google.com --json
 
 ## Why It Helps
 
